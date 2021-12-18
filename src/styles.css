@@ -32,7 +32,7 @@ a {
 .weather-app {
   border: 1px solid #dadde1;
   padding: 15px;
-  margin: 20px auto;
+  margin: 20px auto 0;
   border-radius: 10px;
   max-width: 450px;
 }
@@ -98,4 +98,11 @@ a {
 
 .weekday-temperature-max {
   font-weight: bold;
+}
+
+.coded-by {
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  font-size: 12px;
 }
